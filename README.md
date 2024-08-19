@@ -49,7 +49,7 @@ To use the sentiment analysis model, follow these steps:
 
 ## Model Evaluation
 The Logistic Regression model was evaluated on a test set, and the following metrics were obtained:
-- **Accuracy**: [Insert accuracy score]
+- **Accuracy**: 0.89
 - **Classification Report**: The detailed classification report provides insights into the model's precision, recall, and F1-score for both positive and negative classes.
 
 ## Future Work
