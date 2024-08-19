@@ -30,7 +30,7 @@ To use the sentiment analysis model, follow these steps:
 1. **Clone the Repository**: Clone the project repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-repository-url/sentiment-analysis.git
+    git clone https://github.com/prasadchowdary5/Sentiment-Analysis.git
     ```
 
 2. **Install Dependencies**: Install the required Python packages using pip.
